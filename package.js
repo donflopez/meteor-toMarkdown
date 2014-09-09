@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Conver html code into markdown",
   version: "1.0.0",
-  git: ""
+  git: "https://github.com/donflopez/meteor-toMarkdown"
 });
 
 Package.onUse(function(api) {
